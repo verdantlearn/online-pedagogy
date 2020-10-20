@@ -33,3 +33,5 @@ jumbotron_color: "#58D7CB"
 jumbotron_image: "img/jumbotron-image.svg"
 # jumbotron_mask: "img/jumbotron-mask.svg"
 jumbotron_icon: "img/box-icon.png"
+
+theme: jekyll-theme-cayman
